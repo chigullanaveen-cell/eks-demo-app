@@ -14,7 +14,7 @@ app: demo-web
 spec:
 containers:
 - name: demo-web
-image: YOUR_DOCKERHUB/demo-web:latest
+image: chigullanaveen/demo-web:latest
 ports:
 - containerPort: 80
 -------------------
